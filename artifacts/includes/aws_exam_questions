@@ -1,0 +1,29 @@
+
+{%- for number, number_val in exam.items() %}
+
+## Question {{ number }}
+
+{{ number_val.question }}
+
+<ol>
+  {%- for item in number_val.answers %}
+    {%- if item.correct %}
+  <li id="answer-{{ number }}">
+    {%- else %}
+  <li>
+    {%- endif %}
+    {{ item.answer }}
+  </li>
+  {%- endfor %}
+</ol>
+
+{%- if number_val.reason %}
+<div class='aws-reason' id='reason-{{ number }}'>
+<h3>Reason:</h3>
+{{ number_val.reason }}
+</div>
+{%- endif %}
+
+[Reveal Answer :octicons-heart-fill-24:{ .heart }](javascript:void(0);){ .md-button onclick=revealAwsAnswer({{ number }}) }
+
+{%- endfor %}

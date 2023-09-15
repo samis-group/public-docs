@@ -1,0 +1,52 @@
+/* Dark mode customizations */
+[data-md-color-scheme="slate"] {
+  --md-default-bg-color:        #000000fa;
+}
+
+/* Search bar shortcut key */
+[data-md-toggle="search"]:not(:checked) ~ .md-header .md-search__form::after {
+  position: absolute;
+  top: .3rem;
+  right: .3rem;
+  display: block;
+  padding: .1rem .4rem;
+  /* color: var(--md-default-bg-color); */
+  font-weight: bold;
+  font-size: .8rem;
+  border: .05rem solid var(--md-default-bg-color--lighter);
+  border-radius: .1rem;
+  content: "S or /";
+}
+
+h1 {
+  /* color: #d5d0ff; */
+  /* text-shadow: 0 0 5px #A5F1FF, 0 0 10px #A5F1FF, 0 0 40px #A5F1FF; */
+  font-family: 'Helvetica Neue', sans-serif;
+  font-size: 275px;
+  font-weight: bold;
+  letter-spacing: -1px;
+  line-height: 1;
+}
+
+.aws-answer {
+  outline: #4CAF50 solid 2px;
+  padding: 3px;
+  transition: 0.1s;
+}
+
+.aws-reason {
+  display: none;
+}
+
+@keyframes heart {
+  0%, 40%, 80%, 100% {
+    transform: scale(1);
+  }
+  20%, 60% {
+    transform: scale(1.15);
+  }
+}
+
+.heart {
+  animation: heart 1000ms infinite;
+}

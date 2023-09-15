@@ -1,0 +1,5 @@
+---
+INHERIT: mkdocs.base.yml
+site_name: Sami Documentation
+site_url: https://docs.shaklab.com/
+repo_url: https://gitlab.com/th3cookie/public-docs
