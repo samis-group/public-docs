@@ -11,11 +11,28 @@
             "id": "2b709a807462160d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/15 Sep, 2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a8eaf273c50967f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "newfile test.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "newfile test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "newfile test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "newfile test.md"
+              }
             }
           },
           {
@@ -160,9 +181,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "2b709a807462160d",
+  "active": "9a8eaf273c50967f",
   "lastOpenFiles": [
     "Daily Notes/15 Sep, 2023.md",
+    "newfile test.md",
     "Daily Notes",
     "Untitled.canvas",
     "Untitled 1.canvas",
