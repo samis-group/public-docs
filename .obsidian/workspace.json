@@ -11,8 +11,12 @@
             "id": "0c3c41072094d346",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Tech Notes/Homelab/Knowledge Base/Docker.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "motioneye",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tech Notes/Homelab/Knowledge Base/Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tech Notes/Homelab/Knowledge Base/Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Tech Notes/Homelab/Knowledge Base/Docker.md"
+              }
             }
           },
           {
@@ -160,7 +169,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "df905d10b894a78e",
+  "active": "0c3c41072094d346",
   "lastOpenFiles": [
     "Daily Notes/20 Sep, 2023.md",
     "Daily Notes/15 Sep, 2023.md",
