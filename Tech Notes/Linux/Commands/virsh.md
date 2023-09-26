@@ -9,13 +9,13 @@ The _virsh command_ allows you to manage VMs interactively or in batch.
 
 ***Examples:***
 
-> Shutdown a VM
+> Gracefully shuts down a domain.
 
 ```bash
 virsh shutdown ubuntu
 ```
 
-> Immediately terminate the domain
+> Immediately terminate the domain (force kill)
 
 ```bash
 virsh destroy ubuntu
@@ -27,21 +27,14 @@ virsh destroy ubuntu
 virsh list
 ```
 
-> 
+> Define a domain from an XML file.
 
 ```
-
+virsh define ubuntu.xml
 ```
 
-> 
+> Start a (previously defined) domain that is inactive
 
 ```bash
-
+virsh start ubuntu
 ```
-
-> 
-
-```bash
-
-```
-

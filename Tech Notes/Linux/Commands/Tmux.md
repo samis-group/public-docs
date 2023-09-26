@@ -27,7 +27,7 @@ tmux new -s mysession
 tmux kill-ses -t mysession
 ```
 
-> Detach from session
+> Detach from session (**let go of ctrl THEN press d**)
 
 ```
 Ctrl + b d
@@ -44,4 +44,3 @@ tmux a
 ```bash
 tmux a -t mysession
 ```
-
