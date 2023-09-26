@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "b328044b05c58f35",
+        "id": "aacc6c914b1ba4b1",
         "type": "tabs",
         "children": [
           {
-            "id": "0c3c41072094d346",
+            "id": "340aeb75677a937d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/26 Sep, 2023.md",
+                "file": "Tech Notes/Linux/Commands/Tmux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c65e37f0acac021e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tech Notes/Linux/Linux Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/26 Sep, 2023.md",
+                "file": "Tech Notes/Linux/Commands/Tmux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/26 Sep, 2023.md",
+                "file": "Tech Notes/Linux/Commands/Tmux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/26 Sep, 2023.md"
+                "file": "Tech Notes/Linux/Commands/Tmux.md"
               }
             }
           },
@@ -162,13 +174,23 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-projects:Open projects": false
     }
   },
-  "active": "0c3c41072094d346",
+  "active": "340aeb75677a937d",
   "lastOpenFiles": [
-    "Tech Notes/Macros Info.md",
+    "Tech Notes/Linux/Linux Commands.md",
+    "Tech Notes/Linux/Commands/Tmux.md",
+    "Tech Notes/Linux/Commands",
+    "Tech Notes/Linux/Linux.md",
+    "Tech Notes/Linux/File system.md",
+    "Tech Notes/Linux/Exim.md",
+    "Tech Notes/Linux/CSF.md",
     "Daily Notes/26 Sep, 2023.md",
+    "Tech Notes/Macros Info.md",
     "Daily Notes/20 Sep, 2023.md",
     "Daily Notes/15 Sep, 2023.md",
     "newfile test.md",
