@@ -35,14 +35,13 @@ Ctrl + b d
 
 > Attach to last session
 
-
 ```bash
 tmux a
 ```
 
-> kill/delete session _mysession_
+> Attach to a session with the name _mysession_
 
 ```bash
-
+tmux a -t mysession
 ```
 
