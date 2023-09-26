@@ -2,10 +2,10 @@ Switch easily between several programs in one terminal, detach them (they keep r
 
 ***Options:***
 
-| Flag        | Description |
-| ----------- | ----------- |
-| -l          | Alias for 'atq'. Lists jobs. |
-| -r          | Alias for 'atrm'. Remove a job    |
+| Flag | Description |
+| ---- | ----------- |
+| -s | Session Name |
+| -t | Target Session |
 
 ***Examples:***
 
@@ -20,3 +20,28 @@ tmux
 ```bash
 tmux new -s mysession
 ```
+
+> kill/delete session _mysession_
+
+```bash
+
+```
+
+> kill/delete session _mysession_
+
+```bash
+
+```
+
+> kill/delete session _mysession_
+
+```bash
+
+```
+
+> kill/delete session _mysession_
+
+```bash
+
+```
+
