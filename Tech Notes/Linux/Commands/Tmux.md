@@ -27,16 +27,17 @@ tmux new -s mysession
 tmux kill-ses -t mysession
 ```
 
-> kill/delete session _mysession_
-
-```bash
+> Detach from session
 
 ```
+Ctrl + b d
+```
 
-> kill/delete session _mysession_
+> Attach to last session
+
 
 ```bash
-
+tmux a
 ```
 
 > kill/delete session _mysession_
