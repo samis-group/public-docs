@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech Notes/Macros Info.md",
+                "file": "Daily Notes/26 Sep, 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech Notes/Macros Info.md",
+                "file": "Daily Notes/26 Sep, 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech Notes/Macros Info.md",
+                "file": "Daily Notes/26 Sep, 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech Notes/Macros Info.md"
+                "file": "Daily Notes/26 Sep, 2023.md"
               }
             }
           },
@@ -162,14 +162,13 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-projects:Open projects": false,
       "audio-recorder:Start/stop recording": false
     }
   },
   "active": "0c3c41072094d346",
   "lastOpenFiles": [
+    "Tech Notes/Macros Info.md",
+    "Daily Notes/26 Sep, 2023.md",
     "Daily Notes/20 Sep, 2023.md",
     "Daily Notes/15 Sep, 2023.md",
     "newfile test.md",
