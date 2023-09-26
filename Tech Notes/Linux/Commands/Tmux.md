@@ -24,7 +24,7 @@ tmux new -s mysession
 > kill/delete session _mysession_
 
 ```bash
-
+tmux kill-ses -t mysession
 ```
 
 > kill/delete session _mysession_
