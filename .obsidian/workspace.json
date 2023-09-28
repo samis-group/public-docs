@@ -13,6 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Tech Notes/Development/python/Pipenv.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dee966ab98022bfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Tech Notes/Linux/Commands/tmux.md",
                 "mode": "source",
                 "source": false
@@ -48,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pipenv",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech Notes/Linux/Commands/tmux.md",
+                "file": "Tech Notes/Development/python/Pipenv.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech Notes/Linux/Commands/tmux.md",
+                "file": "Tech Notes/Development/python/Pipenv.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech Notes/Linux/Commands/tmux.md"
+                "file": "Tech Notes/Development/python/Pipenv.md"
               }
             }
           },
@@ -170,9 +182,11 @@
   },
   "active": "7f7d6fb6769a45b6",
   "lastOpenFiles": [
+    "Tech Notes/Linux/Commands/tmux.md",
+    "Tech Notes/Development/python/Pipenv.md",
+    "Daily Notes/28 Sep, 2023.md",
     "Tech Notes/Linux/Commands/virsh.md",
     "Daily Notes/27 Sep, 2023.md",
-    "Tech Notes/Linux/Commands/tmux.md",
     "Tech Notes/Linux/Linux Commands.md",
     "Daily Notes/26 Sep, 2023.md",
     "Tech Notes/Linux/Commands",
