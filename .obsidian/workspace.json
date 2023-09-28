@@ -11,8 +11,12 @@
             "id": "83ba46e05a79d7d9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Tech Notes/AWS/Mass migrate r53 to terraform.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tech Notes/AWS/Mass migrate r53 to terraform.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tech Notes/AWS/Mass migrate r53 to terraform.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Tech Notes/AWS/Mass migrate r53 to terraform.md"
+              }
             }
           },
           {
@@ -162,6 +170,8 @@
   },
   "active": "83ba46e05a79d7d9",
   "lastOpenFiles": [
+    "Daily Notes/29 Sep, 2023.md",
+    "Tech Notes/AWS/Mass migrate r53 to terraform.md",
     "Tech Notes/Development/python/Pipenv.md",
     "Tech Notes/Linux/Commands/tmux.md",
     "Daily Notes/28 Sep, 2023.md",
