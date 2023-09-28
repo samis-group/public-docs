@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8c79a95e64c019e3",
+        "id": "01a2ccd8acd2f75f",
         "type": "tabs",
         "children": [
           {
-            "id": "7f7d6fb6769a45b6",
+            "id": "83ba46e05a79d7d9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech Notes/Development/python/Pipenv.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech Notes/Development/python/Pipenv.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech Notes/Development/python/Pipenv.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Tech Notes/Development/python/Pipenv.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,10 +160,10 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "7f7d6fb6769a45b6",
+  "active": "83ba46e05a79d7d9",
   "lastOpenFiles": [
-    "Tech Notes/Linux/Commands/tmux.md",
     "Tech Notes/Development/python/Pipenv.md",
+    "Tech Notes/Linux/Commands/tmux.md",
     "Daily Notes/28 Sep, 2023.md",
     "Tech Notes/Linux/Commands/virsh.md",
     "Daily Notes/27 Sep, 2023.md",
