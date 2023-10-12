@@ -61,6 +61,18 @@ If there is no pipfile, it’s a new project, or you simply want to install a mo
 pipenv install [package]
 ```
 
+#### Install a specific version of the package
+
+```bash
+pipenv install boto3==1.28.56
+```
+
+#### Install a version of the package from a major/minor release:
+
+```bash
+pipenv install boto3~=1.28
+```
+
 This will create a `Pipfile` if one doesn’t exist. If one does exist, it will automatically be edited with the new package you provided, effectively adding the specified package to your pipfile for you.
 
 To uninstall all packages or certain packages:
